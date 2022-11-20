@@ -96,7 +96,7 @@ class Generator:
         text = choices(string.ascii_lowercase+string.digits,k=16)
         mail_text = str()
         for x in text: mail_text += x
-        mail_address = f"{mail_text}{choice(['@gmail.com','@yahoo.com','@outlook.com','@hotmail.com'])}"
+        mail_address = f"{mail_text}{choice(['@gmail.com','@yahoo.com','@outlook.com','@hotmail.com','@mail.ru'])}"
     
         
         password = "".join(choices(string.ascii_letters+string.digits,k=12))
