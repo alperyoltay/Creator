@@ -249,3 +249,4 @@ class Generator:
 if __name__ == '__main__':
     gen = Generator()
     gen.Run()
+    print("run")
