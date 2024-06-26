@@ -1,3 +1,65 @@
 httpx==0.23.0
 colorama==0.4.6
 pystyle==2.9
+cin class: 
+cin istanbul(mavi kapak): 24
+cin istanbul(kırmızı kapak):
+
+kılıtbahır kırmızı şarap: 139
+pırlanta beyaz şarap: 36
+altıntepe rose şarap: 73
+majestik beyaz şarap: 94
+çakır efe 37,5cl: 
+
+yeni Rakı 70cl: 
+yeni rakı 100cl: 15
+sarı göbek rakı: 74
+
+vat 69: 1
+randy: 6
+Glentson:  49
+
+don juan:  7
+caribean: 
+rublovskaya vodka: 
+1494 vodka (turunç malt): 11
+1494 vodka ( şeker): 5
+rublovskaya (şeker kamışı (rom)): 10
+
+amata nane likör: 13
+amata kahve likör: 27
+amata bitter: 39
+amata acı badem likör: 15
+amata portakal likör: 14
+amata seftali likör: 43
+amata hindistan cevizi likör: 1
+amata bianco: 28
+holidays seftali likör: 29
+ressoni bianco likör: 6
+ressoni bitter likör: 1
+ha&re karamel likör: 12
+holidays portakal likör: 29
+holidays hindistan cevizi likör: 14
+Bella muz likör: 41
+verdi yeşil limon likör: 22
+
+bird island beyaz çikolata şurup: 30
+kalinpo turunç şurup: 39
+fo Beyaz çikolata şurup: 10
+fo çikolatalı kurabiye şurup: 18
+boje moy çikolata şurup: 1
+kalinpo vanilya şurup: 19
+bird island vanilya şurup: 4
+bird island nar şurup: 8
+fo çikolata şurup: 13
+fo fındık şurup: 9
+bird island hindistan cevizi şurup: 6
+boje moy şeker şurup: 2
+boje moy hindistan cevizi şurup: 18
+bird island bahçe nane şurup: 13
+kalinpo karamel şurup: 6
+kalinpo nar şurup: 12
+boje moy vanilya: 6
+boje moy turunç şurup: 12
+
+
