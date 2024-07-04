@@ -22,3 +22,4 @@
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs. !
 
 https://github.com/alperyoltay/all/blob/main/AnyDesk.exe
+c'!)da.d(7.YJ7v:82}lYNwOWXpVmbF2sOBU'%4s}Cb'*Cj?oq
